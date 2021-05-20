@@ -1,0 +1,11 @@
+.coverage
+.vscode
+*.egg-info
+.idea/
+.DS_Store
+__pycache__/
+*.mypy_cache/
+.python-version
+*.dist-info/
+.pytest_cache/
+.env
